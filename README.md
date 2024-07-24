@@ -1,2 +1,2 @@
 # number-of-the-first-character-of-the-second-character-number-of-characters
-test project
+Чтобы запустить программу введите g++ -g main.cpp && ./a.out
